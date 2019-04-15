@@ -16,7 +16,7 @@ Open for better, all browser friendly and break proof ways of writing any of the
 http://127.0.0.1:59526/preview/app/index.html
 
 
-file:///C:/Users/Jeffrey%20Avent/OneDrive/Documents/AWork%20docs/Workings%20files/sample%20docs/Newsletter-intern.html 
+file:///C:/Users/Jeffrey%20Avent/OneDrive/Documents/AWork%20docs/Workings%20files/sample%20docs/Newsletter-intern.html  
 
 
-file:///C:/Users/Jeffrey%20Avent/OneDrive/Documents/AWork%20docs/Github/Test/Newsletter.html 
+file:///C:/Users/Jeffrey%20Avent/OneDrive/Documents/AWork%20docs/Github/Test/Newsletter.html  
