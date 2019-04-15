@@ -6,7 +6,7 @@ Contains exploration and tested Html and css styling effects currently used on d
 - Parallax effect and more will be added later 
 
 
-- Html newsletter to design own newsletters without the used of mailchimp - The newsletters also compatible for different e-mail browsers/application and shows accordingly. Newsletter.html is the most basic of the two.
+- Html newsletter to design own newsletters without the used of mailchimp - The newsletters are also compatible for different e-mail browsers/applications and shows accordingly. Newsletter.html is the most basic of the two.
 
 
 Open for better, all browser friendly and break proof ways of writing any of the codes displayed in this repository. 
