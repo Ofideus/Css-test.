@@ -12,7 +12,7 @@ Contains exploration, tested Html and css styling effects currently used on deve
 I am open for better, all browsers friendly and break proof ways of writing any of the codes displayed/used in this repository. 
 
 
-The two file path below - copy and paste on a open browser, internet explorer, chrome etc.  
+The three file paths below - copy and paste on a open internett browser, internet explorer, chrome etc in order to view.  
 
 file:///C:/Users/Jeffrey%20Avent/OneDrive/Documents/AWork%20docs/Github/Test/Untitled-7.html
 
