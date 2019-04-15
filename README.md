@@ -12,3 +12,5 @@ Contains exploration and tested Html and css styling effects currently used on d
 Open for better, all browser friendly and break proof ways of writing any of the codes displayed in this repository. 
 
 
+
+http://127.0.0.1:59526/preview/app/index.html
