@@ -8,46 +8,77 @@
 <style type="text/css">
 @import url("../../Workings files/sample docs/test.css");
 </style>
+	<script>
+function myFunction() {
+  document.getElementById("headingdiv").innerHTML = "Tusen takk på forhånd for tiden din.<br/> Husk å sjekke min Github";
+}
+</script>
+	
 </head>
 
 <body>
 <header class="heading" id="heading">
 	<div class="headingsection">
-		<div class="headingdiv">Jeg er en selvlært frontend-utvikler og denne siden var laget for rekrutterere i forbindelse med muligheten til å se hvordan jeg formulerer i koder.</div>
+		<div class="headingdiv" id="headingdiv">Jeg er en selvlært frontend-utvikler og denne siden var laget for rekrutterere i forbindelse med å kunne se hvordan jeg formulerer i koder.</div>
 		
-		<div class="headingdiv1" style="text-align:center;"><button class="headingbutton">Gjerne klikk her før du fortsetter </button></div>
+		<div class="headingdiv1" style="text-align:center;"><button class="headingbutton" onclick="myFunction()"> Gjerne klikk her før du fortsetter </button></div>
 	
 	</div></header>
 	
-	
+<!--html page break -->	
 <hr/>
 	
 <div class="sectionrow" id="sectionrow">
 	<div class="leftside">
-			<ul>
+			<ul class="styleul">
 				<li><a href="#heading">Top</a></li>
-				<li><a href="#sectionrow">Middle</a></li>
-				<li><a href="#paralax">Middle ground</a></li>
+				<li><a href="#leftside2">Middle</a></li>
+				<li><a href="#section3">Bottom</a></li>
 			</ul>
 			<div style="text-align:center;">
-				<a href="https://www.visma.no/" target="iframe_eavent"><button class="button">Eavent<span class="tooltip1"> A website that I am working on.</span></button></a>
-				<a href="https://eavent.no/" target="iframe_eavent"><button class="button">Visma<span class="tooltip1"> Eavent is modeled after this website.</span> </button></a>
+				<a href="https://eavent.no/" target="iframe_eavent"><button class="button">Eavent<span class="tooltip1"> A website that I am working on.</span></button></a>
+				<a href="https://www.visma.no/" target="_blank"><button class="button">Visma<span class="tooltip1"> Eavent is modeled after this website.</span> </button></a>
 			</div>
 		
-			<div class="text">Trykk på de knapene øverst for å bytte på høyre.
+			<div class="text">Trykk på de knappene øverst for å bytte på.</div>
 		</div>
-		
-		</div>
-		<div class="leftside2">Where the opacity pciture goes.
+	
+		<div class="leftside2" id="leftside2">
+			<a href="https://eavent.no/" target="_blank">
+				<img src="https://eavent.no/wp-content/uploads/2018/12/åpnet-Edit.jpg" alt="Forest" style="width:200px"><p class="imagebutton">View Eavent<br/> in a full browser</p>
+				<!-- The area to center the view text in middle to image later -->
+			</a>
 		</div>
 	</div>
 		
 	
 	
 	<div class="rightside">
-		<iframe height="800px" width="100%" src="https://eavent.no/" style="border:none;" name="iframe_eavent"></iframe>
-	
-	
+		<iframe height="600px" width="100%" src="https://bit.ly/2VK1U9J" style="border:none; overflow-x:hidden;" name="iframe_eavent"></iframe>
 	</div>
+	
+	<!-- Html page break -->
+	<hr/>
+	
+	<div class="section2" id="section2">Siden er ikke ferdig. <br/> Mer til å komme senere. 
+	</div>
+	
+	
+	<div class="section3" id="section3">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><span style="padding: 3%">
+			<a href="https://www.facebook.com/eghe.aventumamwen"><span style="background-color: #ADD8E6; align: center; padding: 2.5%;"><span class="fa fa-facebook"></span></span></a></span>
+		
+		<span style="padding: 3%">
+			<a href="https://www.instagram.com/ofiavent/"><span style="background-color: #ADD8E6; align: center; padding: 2.5%;"><span class="fa fa-instagram"></span></span></a></span>
+		
+		<span style="padding: 3%">
+			<a href="https://www.linkedin.com/in/avent/"><div style="background-color: #ADD8E6; display: inline-block; align: center; padding: 2.5%;"><span class="fa fa-linkedin"></span></div></a></span>
+
+
+
+	</div>
+	
+	
+	
 </body>
 </html>
