@@ -16,10 +16,14 @@ I am open for better, all browsers friendly and break proof ways of writing any 
 http://127.0.0.1:59526/preview/app/index.html
 
 
+
+
+The two file path below - copy and paste on a open browser, internet explorer, chrome etc.  
+
 file:///C:/Users/Jeffrey%20Avent/OneDrive/Documents/AWork%20docs/Workings%20files/sample%20docs/Newsletter-intern.html  
 
 
 file:///C:/Users/Jeffrey%20Avent/OneDrive/Documents/AWork%20docs/Github/Test/Newsletter.html  
 
 
-The two file path below - copy and paste on a open browser, internet explorer, chrome etc.  
+
