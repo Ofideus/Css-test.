@@ -13,9 +13,6 @@ I am open for better, all browsers friendly and break proof ways of writing any 
 
 
 
-http://127.0.0.1:59526/preview/app/index.html
-
-
 
 
 The two file path below - copy and paste on a open browser, internet explorer, chrome etc.  
