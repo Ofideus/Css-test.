@@ -20,3 +20,6 @@ file:///C:/Users/Jeffrey%20Avent/OneDrive/Documents/AWork%20docs/Workings%20file
 
 
 file:///C:/Users/Jeffrey%20Avent/OneDrive/Documents/AWork%20docs/Github/Test/Newsletter.html  
+
+
+- the two below link - copy and paste on a open browser. 
